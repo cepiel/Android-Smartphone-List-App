@@ -1,4 +1,4 @@
-###Lucas Cepiel
+#Lucas Cepiel
 #Created for CS 478 - Android App Development
 
 
