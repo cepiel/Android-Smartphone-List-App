@@ -1,8 +1,10 @@
-#Lucas Cepiel
-#Created for CS 478 - Android App Development
+Lucas Cepiel
+
+Created for CS 478 - Android App Development
 
 
-#Info
+Info
+
 This app shows several different Smartphones and their specs. Practices utilizing listViews, 
 custom Adapters, context menus, drawable images, and several different activities and intents. 
 You can scroll through the list and click on a phone, which will bring up a bigger picture of the phone.
@@ -15,7 +17,8 @@ just like when you normally click the list item. Clicking "Website" will take yo
 for that phone.
 
 
-#To run
+To run
+
 Download the repo. Either:
 
 Open it in Android Studio and let the Gradle build compile it. Create a Pixel 2 XL virtual device with API 28.
@@ -25,7 +28,8 @@ OR take the APK file in the repo's main directory (Labeled PROJECT-2) and instal
 (The app is not verified to necessarily work on phones other than the described one).
 
 
-#Requirements
+Requirements
+
 Tested working on Pixel 2 XL Virtual Device in Android Studio, using API 28. 
 Not configured to explicitly work on other devices or APIs
 
